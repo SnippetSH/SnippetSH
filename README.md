@@ -1,5 +1,7 @@
 <div align="center">
+  <h1>
   Hi there! <br />
+  </h1>
 </div>
 
 <div align="center">
