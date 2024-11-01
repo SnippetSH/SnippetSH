@@ -2,7 +2,7 @@
   Hi there! <br />
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnippetSH)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnippetSH)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnippetSH&layout=compact)
 
 <!--
