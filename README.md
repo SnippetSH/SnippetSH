@@ -2,8 +2,8 @@
   Hi there! <br />
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seung)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnippetSH)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnippetSH&layout=compact)
 
 <!--
 **SnippetSH/SnippetSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
