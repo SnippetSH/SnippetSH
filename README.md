@@ -2,9 +2,10 @@
   Hi there! <br />
 </div>
 
-<div align="center>
+<div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SnippetSH)  
+
   <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnippetSH&layout=compact)  
